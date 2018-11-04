@@ -1,5 +1,5 @@
 body {
-background-image: url("../images/gravel.png");
+background-image: url("../../images/gravel.png");
 position: relative;
 height: 100%;
 margin: 0;
@@ -95,10 +95,16 @@ padding: 1em;
    
   }
 
-#bio-image {
-  float: left;
+  #hangman {
+    width: 200px;
+    height: 200px;
+  }
 
-}
+  #rpg-game {
+    width: 200px;
+    height: 200px;
+    margin-left: 60px;
+  }
   
 
   .sticky {
